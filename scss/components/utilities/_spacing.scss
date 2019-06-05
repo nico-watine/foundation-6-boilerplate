@@ -1,45 +1,42 @@
-
 // ---------------------------------
 // |            Padding            |
 // ---------------------------------
 
 .p-0 {
-	padding: 0 !important !important;
+	padding: 0 !important;
 }
 
 .p-4 {
-	padding: rem-calc(4) !important;
+	padding: 4px !important;
 }
 
 .p-8 {
-	padding: rem-calc(8) !important;
+	padding: 8px !important;
 }
 
 .p-12 {
-	padding: rem-calc(12) !important;
+	padding: 12px !important;
 }
 
 .p-16 {
-	padding: rem-calc(16) !important;
+	padding: 16px !important;
 }
 
 .p-20 {
-	padding: rem-calc(20) !important;
+	padding: 20px !important;
 }
 
 .p-24 {
-	padding: rem-calc(24) !important;
+	padding: 24px !important;
 }
 
 .p-32 {
-	padding: rem-calc(32) !important;
+	padding: 32px !important;
 }
 
 .p-40 {
-	padding: rem-calc(40) !important;
+	padding: 40px !important;
 }
-
-
 
 // -------------------------------------
 // |            padding-top            |
@@ -50,38 +47,36 @@
 }
 
 .pt-4 {
-	padding-top: rem-calc(4) !important;
+	padding-top: 4px !important;
 }
 
 .pt-8 {
-	padding-top: rem-calc(8) !important;
+	padding-top: 8px !important;
 }
 
 .pt-12 {
-	padding-top: rem-calc(12) !important;
+	padding-top: 12px !important;
 }
 
 .pt-16 {
-	padding-top: rem-calc(16) !important;
+	padding-top: 16px !important;
 }
 
 .pt-20 {
-	padding-top: rem-calc(20) !important;
+	padding-top: 20px !important;
 }
 
 .pt-24 {
-	padding-top: rem-calc(24) !important;
+	padding-top: 24px !important;
 }
 
 .pt-32 {
-	padding-top: rem-calc(32) !important;
+	padding-top: 32px !important;
 }
 
 .pt-40 {
-	padding-top: rem-calc(40) !important;
+	padding-top: 40px !important;
 }
-
-
 
 // ----------------------------------------
 // |            padding-bottom            |
@@ -92,38 +87,36 @@
 }
 
 .pb-4 {
-	padding-bottom: rem-calc(4) !important;
+	padding-bottom: 4px !important;
 }
 
 .pb-8 {
-	padding-bottom: rem-calc(8) !important;
+	padding-bottom: 8px !important;
 }
 
 .pb-12 {
-	padding-bottom: rem-calc(12) !important;
+	padding-bottom: 12px !important;
 }
 
 .pb-16 {
-	padding-bottom: rem-calc(16) !important;
+	padding-bottom: 16px !important;
 }
 
 .pb-20 {
-	padding-bottom: rem-calc(20) !important;
+	padding-bottom: 20px !important;
 }
 
 .pb-24 {
-	padding-bottom: rem-calc(24) !important;
+	padding-bottom: 24px !important;
 }
 
 .pb-32 {
-	padding-bottom: rem-calc(32) !important;
+	padding-bottom: 32px !important;
 }
 
 .pb-40 {
-	padding-bottom: rem-calc(40) !important;
+	padding-bottom: 40px !important;
 }
-
-
 
 // ---------------------------------------
 // |            padding-right            |
@@ -134,38 +127,36 @@
 }
 
 .pr-4 {
-	padding-right: rem-calc(4) !important;
+	padding-right: 4px !important;
 }
 
 .pr-8 {
-	padding-right: rem-calc(8) !important;
+	padding-right: 8px !important;
 }
 
 .pr-12 {
-	padding-right: rem-calc(12) !important;
+	padding-right: 12px !important;
 }
 
 .pr-16 {
-	padding-right: rem-calc(16) !important;
+	padding-right: 16px !important;
 }
 
 .pr-20 {
-	padding-right: rem-calc(20) !important;
+	padding-right: 20px !important;
 }
 
 .pr-24 {
-	padding-right: rem-calc(24) !important;
+	padding-right: 24px !important;
 }
 
 .pr-32 {
-	padding-right: rem-calc(32) !important;
+	padding-right: 32px !important;
 }
 
 .pr-40 {
-	padding-right: rem-calc(40) !important;
+	padding-right: 40px !important;
 }
-
-
 
 // --------------------------------------
 // |            padding-left            |
@@ -176,38 +167,36 @@
 }
 
 .pl-4 {
-	padding-left: rem-calc(4) !important;
+	padding-left: 4px !important;
 }
 
 .pl-8 {
-	padding-left: rem-calc(8) !important;
+	padding-left: 8px !important;
 }
 
 .pl-12 {
-	padding-left: rem-calc(12) !important;
+	padding-left: 12px !important;
 }
 
 .pl-16 {
-	padding-left: rem-calc(16) !important;
+	padding-left: 16px !important;
 }
 
 .pl-20 {
-	padding-left: rem-calc(20) !important;
+	padding-left: 20px !important;
 }
 
 .pl-24 {
-	padding-left: rem-calc(24) !important;
+	padding-left: 24px !important;
 }
 
 .pl-32 {
-	padding-left: rem-calc(32) !important;
+	padding-left: 32px !important;
 }
 
 .pl-40 {
-	padding-left: rem-calc(40) !important;
+	padding-left: 40px !important;
 }
-
-
 
 // ----------------------------------------------
 // |            padding left & right            |
@@ -219,46 +208,44 @@
 }
 
 .px-4 {
-	padding-left: rem-calc(4) !important;
-	padding-right: rem-calc(4) !important;
+	padding-left: 4px !important;
+	padding-right: 4px !important;
 }
 
 .px-8 {
-	padding-left: rem-calc(8) !important;
-	padding-right: rem-calc(8) !important;
+	padding-left: 8px !important;
+	padding-right: 8px !important;
 }
 
 .px-12 {
-	padding-left: rem-calc(12) !important;
-	padding-right: rem-calc(12) !important;
+	padding-left: 12px !important;
+	padding-right: 12px !important;
 }
 
 .px-16 {
-	padding-left: rem-calc(16) !important;
-	padding-right: rem-calc(16) !important;
+	padding-left: 16px !important;
+	padding-right: 16px !important;
 }
 
 .px-20 {
-	padding-left: rem-calc(20) !important;
-	padding-right: rem-calc(20) !important;
+	padding-left: 20px !important;
+	padding-right: 20px !important;
 }
 
 .px-24 {
-	padding-left: rem-calc(24) !important;
-	padding-right: rem-calc(24) !important;
+	padding-left: 24px !important;
+	padding-right: 24px !important;
 }
 
 .px-32 {
-	padding-left: rem-calc(32) !important;
-	padding-right: rem-calc(32) !important;
+	padding-left: 32px !important;
+	padding-right: 32px !important;
 }
 
 .px-40 {
-	padding-left: rem-calc(40) !important;
-	padding-right: rem-calc(40) !important;
+	padding-left: 40px !important;
+	padding-right: 40px !important;
 }
-
-
 
 // ----------------------------------------------
 // |            padding top & bottom            |
@@ -270,50 +257,46 @@
 }
 
 .py-4 {
-	padding-top: rem-calc(4) !important;
-	padding-bottom: rem-calc(4) !important;
+	padding-top: 4px !important;
+	padding-bottom: 4px !important;
 }
 
 .py-8 {
-	padding-top: rem-calc(8) !important;
-	padding-bottom: rem-calc(8) !important;
+	padding-top: 8px !important;
+	padding-bottom: 8px !important;
 }
 
 .py-12 {
-	padding-top: rem-calc(12) !important;
-	padding-bottom: rem-calc(12) !important;
+	padding-top: 12px !important;
+	padding-bottom: 12px !important;
 }
 
 .py-16 {
-	padding-top: rem-calc(16) !important;
-	padding-bottom: rem-calc(16) !important;
+	padding-top: 16px !important;
+	padding-bottom: 16px !important;
 }
 
 .py-20 {
-	padding-top: rem-calc(20) !important;
-	padding-bottom: rem-calc(20) !important;
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
 }
 
 .py-24 {
-	padding-top: rem-calc(24) !important;
-	padding-bottom: rem-calc(24) !important;
+	padding-top: 24px !important;
+	padding-bottom: 24px !important;
 }
 
 .py-32 {
-	padding-top: rem-calc(32) !important;
-	padding-bottom: rem-calc(32) !important;
+	padding-top: 32px !important;
+	padding-bottom: 32px !important;
 }
 
 .py-40 {
-	padding-top: rem-calc(40) !important;
-	padding-bottom: rem-calc(40) !important;
+	padding-top: 40px !important;
+	padding-bottom: 40px !important;
 }
 
-
-
 // ---------------------------------------------------------------------- //
-
-
 
 // ---------------------------------
 // |            Margin            |
@@ -324,38 +307,36 @@
 }
 
 .m-4 {
-	margin: rem-calc(4) !important;
+	margin: 4px !important;
 }
 
 .m-8 {
-	margin: rem-calc(8) !important;
+	margin: 8px !important;
 }
 
 .m-12 {
-	margin: rem-calc(12) !important;
+	margin: 12px !important;
 }
 
 .m-16 {
-	margin: rem-calc(16) !important;
+	margin: 16px !important;
 }
 
 .m-20 {
-	margin: rem-calc(20) !important;
+	margin: 20px !important;
 }
 
 .m-24 {
-	margin: rem-calc(24) !important;
+	margin: 24px !important;
 }
 
 .m-32 {
-	margin: rem-calc(32) !important;
+	margin: 32px !important;
 }
 
 .m-40 {
-	margin: rem-calc(40) !important;
+	margin: 40px !important;
 }
-
-
 
 // -------------------------------------
 // |            margin-top            |
@@ -366,38 +347,36 @@
 }
 
 .mt-4 {
-	margin-top: rem-calc(4) !important;
+	margin-top: 4px !important;
 }
 
 .mt-8 {
-	margin-top: rem-calc(8) !important;
+	margin-top: 8px !important;
 }
 
 .mt-12 {
-	margin-top: rem-calc(12) !important;
+	margin-top: 12px !important;
 }
 
 .mt-16 {
-	margin-top: rem-calc(16) !important;
+	margin-top: 16px !important;
 }
 
 .mt-20 {
-	margin-top: rem-calc(20) !important;
+	margin-top: 20px !important;
 }
 
 .mt-24 {
-	margin-top: rem-calc(24) !important;
+	margin-top: 24px !important;
 }
 
 .mt-32 {
-	margin-top: rem-calc(32) !important;
+	margin-top: 32px !important;
 }
 
 .mt-40 {
-	margin-top: rem-calc(40) !important;
+	margin-top: 40px !important;
 }
-
-
 
 // ----------------------------------------
 // |            margin-bottom            |
@@ -408,38 +387,36 @@
 }
 
 .mb-4 {
-	margin-bottom: rem-calc(4) !important;
+	margin-bottom: 4px !important;
 }
 
 .mb-8 {
-	margin-bottom: rem-calc(8) !important;
+	margin-bottom: 8px !important;
 }
 
 .mb-12 {
-	margin-bottom: rem-calc(12) !important;
+	margin-bottom: 12px !important;
 }
 
 .mb-16 {
-	margin-bottom: rem-calc(16) !important;
+	margin-bottom: 16px !important;
 }
 
 .mb-20 {
-	margin-bottom: rem-calc(20) !important;
+	margin-bottom: 20px !important;
 }
 
 .mb-24 {
-	margin-bottom: rem-calc(24) !important;
+	margin-bottom: 24px !important;
 }
 
 .mb-32 {
-	margin-bottom: rem-calc(32) !important;
+	margin-bottom: 32px !important;
 }
 
 .mb-40 {
-	margin-bottom: rem-calc(40) !important;
+	margin-bottom: 40px !important;
 }
-
-
 
 // ---------------------------------------
 // |            margin-right            |
@@ -450,38 +427,36 @@
 }
 
 .mr-4 {
-	margin-right: rem-calc(4) !important;
+	margin-right: 4px !important;
 }
 
 .mr-8 {
-	margin-right: rem-calc(8) !important;
+	margin-right: 8px !important;
 }
 
 .mr-12 {
-	margin-right: rem-calc(12) !important;
+	margin-right: 12px !important;
 }
 
 .mr-16 {
-	margin-right: rem-calc(16) !important;
+	margin-right: 16px !important;
 }
 
 .mr-20 {
-	margin-right: rem-calc(20) !important;
+	margin-right: 20px !important;
 }
 
 .mr-24 {
-	margin-right: rem-calc(24) !important;
+	margin-right: 24px !important;
 }
 
 .mr-32 {
-	margin-right: rem-calc(32) !important;
+	margin-right: 32px !important;
 }
 
 .mr-40 {
-	margin-right: rem-calc(40) !important;
+	margin-right: 40px !important;
 }
-
-
 
 // --------------------------------------
 // |            margin-left            |
@@ -492,38 +467,36 @@
 }
 
 .ml-4 {
-	margin-left: rem-calc(4) !important;
+	margin-left: 4px !important;
 }
 
 .ml-8 {
-	margin-left: rem-calc(8) !important;
+	margin-left: 8px !important;
 }
 
 .ml-12 {
-	margin-left: rem-calc(12) !important;
+	margin-left: 12px !important;
 }
 
 .ml-16 {
-	margin-left: rem-calc(16) !important;
+	margin-left: 16px !important;
 }
 
 .ml-20 {
-	margin-left: rem-calc(20) !important;
+	margin-left: 20px !important;
 }
 
 .ml-24 {
-	margin-left: rem-calc(24) !important;
+	margin-left: 24px !important;
 }
 
 .ml-32 {
-	margin-left: rem-calc(32) !important;
+	margin-left: 32px !important;
 }
 
 .ml-40 {
-	margin-left: rem-calc(40) !important;
+	margin-left: 40px !important;
 }
-
-
 
 // ----------------------------------------------
 // |            margin left & right            |
@@ -535,46 +508,44 @@
 }
 
 .mx-4 {
-	margin-left: rem-calc(4) !important;
-	margin-right: rem-calc(4) !important;
+	margin-left: 4px !important;
+	margin-right: 4px !important;
 }
 
 .mx-8 {
-	margin-left: rem-calc(8) !important;
-	margin-right: rem-calc(8) !important;
+	margin-left: 8px !important;
+	margin-right: 8px !important;
 }
 
 .mx-12 {
-	margin-left: rem-calc(12) !important;
-	margin-right: rem-calc(12) !important;
+	margin-left: 12px !important;
+	margin-right: 12px !important;
 }
 
 .mx-16 {
-	margin-left: rem-calc(16) !important;
-	margin-right: rem-calc(16) !important;
+	margin-left: 16px !important;
+	margin-right: 16px !important;
 }
 
 .mx-20 {
-	margin-left: rem-calc(20) !important;
-	margin-right: rem-calc(20) !important;
+	margin-left: 20px !important;
+	margin-right: 20px !important;
 }
 
 .mx-24 {
-	margin-left: rem-calc(24) !important;
-	margin-right: rem-calc(24) !important;
+	margin-left: 24px !important;
+	margin-right: 24px !important;
 }
 
 .mx-32 {
-	margin-left: rem-calc(32) !important;
-	margin-right: rem-calc(32) !important;
+	margin-left: 32px !important;
+	margin-right: 32px !important;
 }
 
 .mx-40 {
-	margin-left: rem-calc(40) !important;
-	margin-right: rem-calc(40) !important;
+	margin-left: 40px !important;
+	margin-right: 40px !important;
 }
-
-
 
 // ----------------------------------------------
 // |            margin top & bottom            |
@@ -586,41 +557,41 @@
 }
 
 .my-4 {
-	margin-top: rem-calc(4) !important;
-	margin-bottom: rem-calc(4) !important;
+	margin-top: 4px !important;
+	margin-bottom: 4px !important;
 }
 
 .my-8 {
-	margin-top: rem-calc(8) !important;
-	margin-bottom: rem-calc(8) !important;
+	margin-top: 8px !important;
+	margin-bottom: 8px !important;
 }
 
 .my-12 {
-	margin-top: rem-calc(12) !important;
-	margin-bottom: rem-calc(12) !important;
+	margin-top: 12px !important;
+	margin-bottom: 12px !important;
 }
 
 .my-16 {
-	margin-top: rem-calc(16) !important;
-	margin-bottom: rem-calc(16) !important;
+	margin-top: 16px !important;
+	margin-bottom: 16px !important;
 }
 
 .my-20 {
-	margin-top: rem-calc(20) !important;
-	margin-bottom: rem-calc(20) !important;
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
 }
 
 .my-24 {
-	margin-top: rem-calc(24) !important;
-	margin-bottom: rem-calc(24) !important;
+	margin-top: 24px !important;
+	margin-bottom: 24px !important;
 }
 
 .my-32 {
-	margin-top: rem-calc(32) !important;
-	margin-bottom: rem-calc(32) !important;
+	margin-top: 32px !important;
+	margin-bottom: 32px !important;
 }
 
 .my-40 {
-	margin-top: rem-calc(40) !important;
-	margin-bottom: rem-calc(40) !important;
+	margin-top: 40px !important;
+	margin-bottom: 40px !important;
 }
