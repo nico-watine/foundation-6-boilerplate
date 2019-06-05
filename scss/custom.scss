@@ -1,0 +1,10 @@
+@import '_var.scss';
+
+// #1 Typography
+@import 'components/_typography.scss';
+
+// #2 Components
+@import 'components/_utilities.scss';
+
+// #3 Page styles
+@import 'pages/index/_index.scss';
